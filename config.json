@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routeretringify",
+        "uuid": 2053248,
+        "checksum": "1uvg68"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
